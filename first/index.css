@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: grey;
+    min-height: 10vh;
+}
+
+.hero{
+    background-color: blue;
+    min-height: 70vh;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+footer{
+    min-height: 10vh;
+    background-color: black;
+}
