@@ -7,16 +7,23 @@
 header{
     background-color: grey;
     min-height: 10vh;
+   
 }
 
 .hero{
-    background-color: blue;
-    min-height: 70vh;
+    background-color: cyan;
+    min-height: 80vh;
     margin-left: 100px;
     margin-right: 100px;
 }
 
 footer{
     min-height: 10vh;
-    background-color: black;
+    background-color: grey;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+body{
+    background-color: lightgrey;
 }
